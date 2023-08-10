@@ -1,6 +1,6 @@
 using UiPath.CodedWorkflows;
 
-namespace 空のプロセス
+namespace 請求書発行一回目
 {
     public class CodedWorkflow : CodedWorkflowBase
     {

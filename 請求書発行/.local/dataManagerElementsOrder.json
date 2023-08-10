@@ -31,6 +31,30 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Folder_Name&Flowchart_1",
+        "Day&Flowchart_1",
+        "First_Check&Flowchart_1",
+        "Deadline&Flowchart_1",
+        "result&Flowchart_1",
+        "Year&Flowchart_1",
+        "Month&Flowchart_1",
+        "folder_path&Flowchart_1",
+        "Period&Flowchart_1",
+        "Period&Sequence_4",
+        "Costomer_Number&Sequence_2",
+        "Costomer_Name&Sequence_2",
+        "Costomer_Data&Sequence_2",
+        "File_Flug&Sequence_2",
+        "variable2&Sequence_50"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

@@ -21263,8 +21263,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "空のプロセス",
-      "projectName": "空のプロセス",
+      "projectUniqueName": "請求書発行一回目",
+      "projectName": "請求書発行一回目",
       "projectPath": "C:\\Users\\user\\Documents\\UiPath\\.repositories\\Uipath-Invoicing\\請求書発行\\.local",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Documents\\UiPath\\.repositories\\Uipath-Invoicing\\請求書発行\\.local"
